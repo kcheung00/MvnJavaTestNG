@@ -13,3 +13,7 @@
    ```
    java -jar target/mvnJavaTemplate-0.0.1-SNAPSHOT.jar 
    ```
+4. Run Test
+   ```
+   mvn test -Dtest="com.mytest.testApp"
+   ```
